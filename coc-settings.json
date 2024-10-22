@@ -1,0 +1,17 @@
+{
+ "clangd.path": "~\\AppData\\Local\\coc\\extensions\\coc-clangd-data\\install\\18.1.3\\clangd_18.1.3\\bin\\clangd.exe",
+"clangd.arguments": ["--query-driver=C:\\msys64\\ucrt64\\bin\\g++.exe"],
+"prettier.tabWidth": 6,
+    "suggest.floatConfig": {
+        "border": true
+    },
+    "diagnostic.floatConfig": {
+        "border": true
+    },
+    "signature.floatConfig": {
+        "border": true
+    },
+    "hover.floatConfig": {
+        "border": true
+    }
+}
