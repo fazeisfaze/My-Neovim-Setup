@@ -1,2 +1,2 @@
 # My-Neovim-Setup
- save for my  futur linux setup
+ save for my  future linux setup
